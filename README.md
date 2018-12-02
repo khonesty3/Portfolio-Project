@@ -3,7 +3,7 @@ A template for a portfolio site designed as project for class.
 ## Included files
 Mockup_Project
   1. css(folder)
-    ..*test1.css
+    ..* test1.css
   2. img(folder)
     ..* rageface.png
     ..* code.jpg
